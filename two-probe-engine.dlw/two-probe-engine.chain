@@ -4,6 +4,6 @@ slug  : two-probe-engine
 seal  : 3b0e56c0d88d6c75d1e439cb343b3c6efed3114a166d92d7bc1ed59b4bfcedbb
 prev  : 1a35295deeff415adec53e7aeb6395218702b43a29bae45de6d1871e494e9c2b
 link  : 5849c7ad4b7f424cda2d1d82900b34f80609a91739c7d693a215c15559bb02c1
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
